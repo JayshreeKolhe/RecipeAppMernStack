@@ -39,8 +39,6 @@ render() {
                                 onChange={this.onChangeRecPreparationTime}
                                 />
                     </div>
-                   
-
                   
                     <div className="form-group w-50"> 
                         <label>Cooking Time: </label>
